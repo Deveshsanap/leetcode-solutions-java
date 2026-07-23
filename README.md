@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -14,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
