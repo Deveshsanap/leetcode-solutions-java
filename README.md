@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -21,8 +23,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
