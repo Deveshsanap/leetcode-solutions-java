@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0973-k-closest-points-to-origin) |
