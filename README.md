@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
