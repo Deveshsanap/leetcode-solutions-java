@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/1046-last-stone-weight) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -133,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Deveshsanap/leetcode-solutions-java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
